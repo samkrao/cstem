@@ -9,7 +9,7 @@
 
 FO is a general-purpose language  the name - FO means (Functional Objects).
 
-<p align="center">  ** FO IS WIP currently lying in separate private repository of git **  </p>
+<p align="center">  ** FO IS WIP currently incubating in separate private repository of git **  </p>
 
 <hr>
 
