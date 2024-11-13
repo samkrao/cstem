@@ -9,7 +9,7 @@
 
 FO is a general-purpose language for programming .
 
-<p align="center">  ** FO IS WIP currently incubating in separate private repository of git (https://github.com/samkrao/fo-lang) **  </p>
+<p align="center">  ** FO IS WIP currently incubating in separate private repository of git.  This is the place holder till it matures (if at all)  **  </p>
 
 <hr>
 
