@@ -1,16 +1,15 @@
 <p align="center">
-    <b> FO programming Language</b>
+   <h1> <b> FO programming Language</b> </h1>h1>
 </p>
 
 
 
-<p align="center"> programming language</p>
 <hr>
 
 
 FO is a general-purpose language  the name - FOL (Functional Objects).
 
-<p align="center">  ** FOL IS STILL JUST AN IDEA **  </p>
+<p align="center">  ** FO IS STILL JUST AN IDEA **  </p>
 
 <hr>
 
