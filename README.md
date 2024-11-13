@@ -7,7 +7,7 @@
 <hr>
 
 
-FO is a general-purpose language  the name - FO means (Functional Objects).
+FO is a general-purpose language for programming .
 
 <p align="center">  ** FO IS WIP currently incubating in separate private repository of git **  </p>
 
