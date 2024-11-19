@@ -1,5 +1,5 @@
 <p align="center">
-   <h1> <b> FO programming Language</b> </h1>
+   <h1> <b> OF programming Language</b> </h1>
 </p>
 
 
@@ -7,9 +7,9 @@
 <hr>
 
 
-FO is a general-purpose language for programming .
+OF is a general-purpose language for programming .
 
-<p align="center">  ** FO IS under development in separate private repository of git.  This is the place holder till it considered as qualified to be public (if at all)  **  </p>
+<p align="center">  ** OF IS under development in separate private repository of git.  This is the place holder till it considered as qualified to be public (if at all)  **  </p>
 
 <hr>
 
