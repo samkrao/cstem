@@ -1,5 +1,5 @@
 <p align="center">
-   <h1> <b> ↄ cstem Programming Language</b> </h1>
+   <h1> <b> ![Alt text](OF_lang.png?raw=true "cstem") cstem Programming Language</b> </h1>
 </p>
 
 
