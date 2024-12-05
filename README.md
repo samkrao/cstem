@@ -1,5 +1,5 @@
 <p align="center">
-   <h1> <b> ![screenshot](https://github.com/samkrao/cstem/OF_lang.png) cstem Programming Language</b> </h1>
+   <h1> <b> ![https://github.com/samkrao/cstem/OF_lang.png](https://github.com/samkrao/cstem/blob/main/OF_lang.png) cstem Programming Language</b> </h1>
 </p>
 
 
