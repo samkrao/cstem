@@ -1,8 +1,7 @@
 <p align="center">
-   <h1> <b> cstem Programming Language</b> </h1>
+   <h1> ![cstem](https://github.com/user-attachments/assets/64e01a64-bcda-4045-b4e6-b2d46cb49bb4) <b> cstem Programming Language</b> </h1>
 </p>
 
-![OF_lang](https://github.com/user-attachments/assets/64e01a64-bcda-4045-b4e6-b2d46cb49bb4)
 
 
 <hr>
